@@ -20,18 +20,7 @@ Modified from the original [gistup](https://github.com/tuladhar/gistup) by Puru 
 
 ## Installation
 
-1. Clone the repository:
-   ```
-   git clone https://github.com/yourusername/gist-transfer-cli.git
-   cd gist-transfer-cli
-   ```
-
-2. Make the script executable (optional):
-   ```
-   chmod +x gist_transfer.py
-   ```
-
-3. Run it directly with Python:
+Run it directly with Python:
    ```
    python gist_transfer.py --help
    ```
